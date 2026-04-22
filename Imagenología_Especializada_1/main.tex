@@ -1,0 +1,169 @@
+% ============================================================
+%  MAIN.TEX --- Documento principal
+%  Compilar con: XeLaTeX (por fontspec / Times New Roman)
+% ============================================================
+
+\documentclass[12pt, a4paper]{report}
+
+% ============================================================
+%  FUENTES Y CODIFICACIÓN (XeLaTeX)
+% ============================================================
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+
+% ============================================================
+%  IDIOMA
+% ============================================================
+\usepackage[spanish]{babel}
+
+% ============================================================
+%  GEOMETRÍA DE PÁGINA
+% ============================================================
+\usepackage[a4paper, top=2cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+
+% ============================================================
+%  TIPOGRAFÍA Y PÁRRAFOS
+% ============================================================
+\setlength{\parindent}{0pt}
+\usepackage{parskip}
+
+% ============================================================
+%  COLORES
+% ============================================================
+\usepackage{xcolor}
+\definecolor{azulprincipal}{RGB}{30, 70, 130}
+\definecolor{naranjadestacado}{RGB}{210, 105, 30}
+\definecolor{verdeclave}{RGB}{40, 120, 60}
+\definecolor{grisclaro}{RGB}{245, 245, 245}
+\definecolor{rojoriesgo}{RGB}{180, 30, 30}
+
+% ============================================================
+%  FORMATO DE TÍTULOS
+%  \chapter en negro (estilo report), \section y abajo en color
+% ============================================================
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+  {\Large\bfseries}{}{0em}{}[\hrule height 1.5pt \vspace{0.5em}]
+
+\titleformat{\section}
+  {\large\bfseries\color{azulprincipal}}{}{0em}{}[\titlerule]
+
+\titleformat{\subsection}
+  {\normalsize\bfseries\color{naranjadestacado}}{}{0em}{}
+
+\titleformat{\subsubsection}
+  {\normalsize\bfseries\color{verdeclave}}{}{0em}{}
+
+% ============================================================
+%  TABLAS
+% ============================================================
+\usepackage{booktabs}
+\usepackage{array}
+
+% ============================================================
+%  LISTAS
+% ============================================================
+\usepackage{enumitem}
+
+% ============================================================
+%  RECUADROS (mdframed, reemplaza tcolorbox para este estilo)
+% ============================================================
+\usepackage{mdframed}
+
+% Recuadro azul: puntos clave
+\newmdenv[
+  backgroundcolor=grisclaro,
+  linecolor=azulprincipal,
+  linewidth=1.2pt,
+  roundcorner=4pt,
+  innerleftmargin=10pt,
+  innerrightmargin=10pt,
+  innertopmargin=8pt,
+  innerbottommargin=8pt
+]{cajakeypoints}
+
+% Recuadro rojo: advertencias y riesgos
+\newmdenv[
+  backgroundcolor=rojoriesgo!8,
+  linecolor=rojoriesgo,
+  linewidth=1pt,
+  roundcorner=4pt,
+  innerleftmargin=10pt,
+  innerrightmargin=10pt,
+  innertopmargin=8pt,
+  innerbottommargin=8pt
+]{cajariesgo}
+
+% Recuadro verde: definiciones formales
+\newmdenv[
+  backgroundcolor=verdeclave!8,
+  linecolor=verdeclave,
+  linewidth=1pt,
+  roundcorner=4pt,
+  innerleftmargin=10pt,
+  innerrightmargin=10pt,
+  innertopmargin=6pt,
+  innerbottommargin=6pt
+]{cajadefinicion}
+
+% ============================================================
+%  ENCABEZADO Y PIE DE PÁGINA
+% ============================================================
+\usepackage{fancyhdr}
+\setlength{\headheight}{13.68802pt}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\small\color{gray} Imagenología Especializada I}
+\lhead{\small\color{gray} \leftmark}   % muestra el nombre del capítulo activo
+\cfoot{\thepage}
+
+% ============================================================
+%  IMÁGENES
+% ============================================================
+\usepackage{graphicx}
+
+% ============================================================
+%  COLUMNAS MÚLTIPLES
+% ============================================================
+\usepackage{multicol}
+
+% ============================================================
+%  MARCA DE AGUA
+% ============================================================
+\usepackage{draftwatermark}
+\SetWatermarkText{Uso personal}
+\SetWatermarkScale{0.6}
+\SetWatermarkLightness{1}   % levemente visible, no tapona el texto
+
+% ============================================================
+%  HIPERVÍNCULOS (siempre al final del preámbulo)
+% ============================================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue!60!black,
+  urlcolor=blue!60!black
+}
+
+% ============================================================
+\begin{document}
+% ============================================================
+
+\title{\textbf{\color{azulprincipal} Resumen Imagenología Especializada I}}
+\author{DC}
+\date{2026}
+
+\maketitle
+\tableofcontents
+\newpage
+
+% ============================================================
+%  CAPÍTULOS --- agrega un \input{} por cada tema nuevo
+% ============================================================
+\input{mediosContraste}
+\input{cistografia}
+\input{histero}
+\input{urologia intra}
+
+\end{document}

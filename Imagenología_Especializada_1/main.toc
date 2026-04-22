@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Medios de Contraste}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Cistografia}{8}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Histeosalpingogrfia (HSG)}{18}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Urologia Intraoperatoria}{28}{chapter.4}%
