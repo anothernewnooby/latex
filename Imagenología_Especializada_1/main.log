@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.21)  21 APR 2026 21:56
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.4.21)  22 APR 2026 18:57
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1033,22 +1033,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 176--177
 \TU/TimesNewRoman(0)/m/n/12 es anor-mal. Fluo-ros-co-pia de
  []
 
-<imagenes/cisto1.png, id=101, 561.09625pt x 571.13374pt>
+<imagenes/cisto1.png, id=116, 561.09625pt x 571.13374pt>
 File: imagenes/cisto1.png Graphic file (type png)
 <use imagenes/cisto1.png>
 Package luatex.def Info: imagenes/cisto1.png  used on input line 184.
 (luatex.def)             Requested size: 227.62206pt x 231.69135pt.
-<imagenes/Cisto 2.png, id=102, 463.7325pt x 478.78876pt>
+<imagenes/Cisto 2.png, id=117, 463.7325pt x 478.78876pt>
 File: imagenes/Cisto 2.png Graphic file (type png)
 <use imagenes/Cisto 2.png>
 Package luatex.def Info: imagenes/Cisto 2.png  used on input line 191.
 (luatex.def)             Requested size: 227.62206pt x 235.01765pt.
-<imagenes/cisto4.png, id=103, 630.85687pt x 273.27094pt>
+<imagenes/cisto4.png, id=118, 630.85687pt x 273.27094pt>
 File: imagenes/cisto4.png Graphic file (type png)
 <use imagenes/cisto4.png>
 Package luatex.def Info: imagenes/cisto4.png  used on input line 198.
 (luatex.def)             Requested size: 455.24411pt x 197.20107pt.
-<imagenes/cisto5.png, id=104, 461.725pt x 460.72125pt>
+<imagenes/cisto5.png, id=119, 461.725pt x 460.72125pt>
 File: imagenes/cisto5.png Graphic file (type png)
 <use imagenes/cisto5.png>
 Package luatex.def Info: imagenes/cisto5.png  used on input line 205.
@@ -1068,12 +1068,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
-<imagenes/cisto estenosis.png, id=122, 783.67781pt x 330.48468pt>
+<imagenes/cisto estenosis.png, id=137, 783.67781pt x 330.48468pt>
 File: imagenes/cisto estenosis.png Graphic file (type png)
 <use imagenes/cisto estenosis.png>
 Package luatex.def Info: imagenes/cisto estenosis.png  used on input line 227.
 (luatex.def)             Requested size: 455.24411pt x 191.98381pt.
-<imagenes/cisto reflujo.png, id=123, 898.85812pt x 371.13657pt>
+<imagenes/cisto reflujo.png, id=138, 898.85812pt x 371.13657pt>
 File: imagenes/cisto reflujo.png Graphic file (type png)
 <use imagenes/cisto reflujo.png>
 Package luatex.def Info: imagenes/cisto reflujo.png  used on input line 238.
@@ -1083,12 +1083,12 @@ LaTeX Info: Redefining \% on input line 243.
 [14
 
 <./imagenes/cisto estenosis.png><./imagenes/cisto reflujo.png>]
-<imagenes/cisto fistulas.png, id=132, 951.555pt x 490.83376pt>
+<imagenes/cisto fistulas.png, id=147, 951.555pt x 490.83376pt>
 File: imagenes/cisto fistulas.png Graphic file (type png)
 <use imagenes/cisto fistulas.png>
 Package luatex.def Info: imagenes/cisto fistulas.png  used on input line 249.
 (luatex.def)             Requested size: 455.24411pt x 234.8261pt.
-<imagenes/diverticulo.png, id=133, 842.39719pt x 325.96782pt>
+<imagenes/diverticulo.png, id=148, 842.39719pt x 325.96782pt>
 File: imagenes/diverticulo.png Graphic file (type png)
 <use imagenes/diverticulo.png>
 Package luatex.def Info: imagenes/diverticulo.png  used on input line 260.
@@ -1096,7 +1096,7 @@ Package luatex.def Info: imagenes/diverticulo.png  used on input line 260.
 LaTeX Info: Redefining \. on input line 268.
 LaTeX Info: Redefining \% on input line 268.
  [15<./imagenes/cisto fistulas.png><./imagenes/diverticulo.png>]
-<cistocele.png, id=142, 657.2053pt x 479.54156pt>
+<cistocele.png, id=157, 657.2053pt x 479.54156pt>
 File: cistocele.png Graphic file (type png)
 <use cistocele.png>
 Package luatex.def Info: cistocele.png  used on input line 271.
@@ -1129,32 +1129,32 @@ LaTeX Info: Redefining \% on input line 159.
  [21
 
 ]
-<imagenes/hist1.png, id=180, 606.265pt x 488.82625pt>
+<imagenes/hist1.png, id=195, 606.265pt x 488.82625pt>
 File: imagenes/hist1.png Graphic file (type png)
 <use imagenes/hist1.png>
 Package luatex.def Info: imagenes/hist1.png  used on input line 162.
 (luatex.def)             Requested size: 227.62206pt x 183.53316pt.
-<imagenes/hist2.png, id=181, 528.97626pt x 505.89pt>
+<imagenes/hist2.png, id=196, 528.97626pt x 505.89pt>
 File: imagenes/hist2.png Graphic file (type png)
 <use imagenes/hist2.png>
 Package luatex.def Info: imagenes/hist2.png  used on input line 169.
 (luatex.def)             Requested size: 227.62206pt x 217.68283pt.
-<imagenes/hist3.png, id=182, 578.16pt x 491.8375pt>
+<imagenes/hist3.png, id=197, 578.16pt x 491.8375pt>
 File: imagenes/hist3.png Graphic file (type png)
 <use imagenes/hist3.png>
 Package luatex.def Info: imagenes/hist3.png  used on input line 176.
 (luatex.def)             Requested size: 227.62206pt x 193.63202pt.
-<imagenes/hist4.png, id=183, 973.38657pt x 374.14781pt>
+<imagenes/hist4.png, id=198, 973.38657pt x 374.14781pt>
 File: imagenes/hist4.png Graphic file (type png)
 <use imagenes/hist4.png>
 Package luatex.def Info: imagenes/hist4.png  used on input line 183.
 (luatex.def)             Requested size: 455.24411pt x 174.9817pt.
-<imagenes/hist5.png, id=184, 620.3175pt x 499.8675pt>
+<imagenes/hist5.png, id=199, 620.3175pt x 499.8675pt>
 File: imagenes/hist5.png Graphic file (type png)
 <use imagenes/hist5.png>
 Package luatex.def Info: imagenes/hist5.png  used on input line 190.
 (luatex.def)             Requested size: 227.62206pt x 183.4226pt.
-<imagenes/hist6.png, id=185, 644.4075pt x 505.89pt>
+<imagenes/hist6.png, id=200, 644.4075pt x 505.89pt>
 File: imagenes/hist6.png Graphic file (type png)
 <use imagenes/hist6.png>
 Package luatex.def Info: imagenes/hist6.png  used on input line 197.
@@ -1165,7 +1165,7 @@ LaTeX Info: Redefining \% on input line 202.
 LaTeX Info: Redefining \. on input line 202.
 LaTeX Info: Redefining \% on input line 202.
  [23<./imagenes/hist4.png><./imagenes/hist5.png><./imagenes/hist6.png>]
-<imagenes/espasmo tubarico.png, id=201, 464.73625pt x 462.72874pt>
+<imagenes/espasmo tubarico.png, id=216, 464.73625pt x 462.72874pt>
 File: imagenes/espasmo tubarico.png Graphic file (type png)
 <use imagenes/espasmo tubarico.png>
 Package luatex.def Info: imagenes/espasmo tubarico.png  used on input line 215.
@@ -1201,22 +1201,22 @@ Underfull \hbox (badness 3343) in paragraph at lines 231--231
 \TU/TimesNewRoman(0)/m/n/12 llos; re-quie-re ca-te-te-ri-za-ción
  []
 
-<imagenes/unicorne.png, id=202, 389.455pt x 314.17375pt>
+<imagenes/unicorne.png, id=217, 389.455pt x 314.17375pt>
 File: imagenes/unicorne.png Graphic file (type png)
 <use imagenes/unicorne.png>
 Package luatex.def Info: imagenes/unicorne.png  used on input line 242.
 (luatex.def)             Requested size: 227.62206pt x 183.62071pt.
-<imagenes/didelfo.png, id=203, 377.41pt x 283.0575pt>
+<imagenes/didelfo.png, id=218, 377.41pt x 283.0575pt>
 File: imagenes/didelfo.png Graphic file (type png)
 <use imagenes/didelfo.png>
 Package luatex.def Info: imagenes/didelfo.png  used on input line 249.
 (luatex.def)             Requested size: 227.62206pt x 170.71689pt.
-<imagenes/bicorne.png, id=204, 694.84593pt x 325.215pt>
+<imagenes/bicorne.png, id=219, 694.84593pt x 325.215pt>
 File: imagenes/bicorne.png Graphic file (type png)
 <use imagenes/bicorne.png>
 Package luatex.def Info: imagenes/bicorne.png  used on input line 256.
 (luatex.def)             Requested size: 227.62206pt x 106.53226pt.
-<imagenes/septado.png, id=205, 561.09625pt x 298.11375pt>
+<imagenes/septado.png, id=220, 561.09625pt x 298.11375pt>
 File: imagenes/septado.png Graphic file (type png)
 <use imagenes/septado.png>
 Package luatex.def Info: imagenes/septado.png  used on input line 263.
@@ -1280,7 +1280,7 @@ LaTeX Info: Redefining \% on input line 123.
 
 ]
 Package mdframed Info: Not enough space on this page on input line 123.
-<imagenes/dobleJ.png, id=249, 518.93875pt x 645.41125pt>
+<imagenes/dobleJ.png, id=264, 518.93875pt x 645.41125pt>
 File: imagenes/dobleJ.png Graphic file (type png)
 <use imagenes/dobleJ.png>
 Package luatex.def Info: imagenes/dobleJ.png  used on input line 127.
@@ -1293,12 +1293,12 @@ LaTeX Info: Redefining \% on input line 171.
  [32
 
 ]
-<imagenes/puncionRenal.png, id=259, 586.19pt x 613.29124pt>
+<imagenes/puncionRenal.png, id=274, 586.19pt x 613.29124pt>
 File: imagenes/puncionRenal.png Graphic file (type png)
 <use imagenes/puncionRenal.png>
 Package luatex.def Info: imagenes/puncionRenal.png  used on input line 181.
 (luatex.def)             Requested size: 227.62206pt x 238.14388pt.
-<imagenes/anterograda.png, id=260, 1075.01625pt x 526.21594pt>
+<imagenes/anterograda.png, id=275, 1075.01625pt x 526.21594pt>
 File: imagenes/anterograda.png Graphic file (type png)
 <use imagenes/anterograda.png>
 Package luatex.def Info: imagenes/anterograda.png  used on input line 190.
@@ -1308,12 +1308,12 @@ LaTeX Info: Redefining \% on input line 195.
  [33
 
 <./imagenes/puncionRenal.png><./imagenes/anterograda.png>]
-<imagenes/guia.png, id=271, 1078.0275pt x 526.21594pt>
+<imagenes/guia.png, id=286, 1078.0275pt x 526.21594pt>
 File: imagenes/guia.png Graphic file (type png)
 <use imagenes/guia.png>
 Package luatex.def Info: imagenes/guia.png  used on input line 202.
 (luatex.def)             Requested size: 455.24411pt x 222.22162pt.
-<imagenes/dilatadores.png, id=272, 1084.05pt x 545.03625pt>
+<imagenes/dilatadores.png, id=287, 1084.05pt x 545.03625pt>
 File: imagenes/dilatadores.png Graphic file (type png)
 <use imagenes/dilatadores.png>
 Package luatex.def Info: imagenes/dilatadores.png  used on input line 212.
@@ -1323,12 +1323,12 @@ LaTeX Info: Redefining \% on input line 217.
  [34
 
 <./imagenes/guia.png><./imagenes/dilatadores.png>]
-<screenshot001.png, id=283, 1066.7353pt x 529.98pt>
+<screenshot001.png, id=298, 1066.7353pt x 529.98pt>
 File: screenshot001.png Graphic file (type png)
 <use screenshot001.png>
 Package luatex.def Info: screenshot001.png  used on input line 223.
 (luatex.def)             Requested size: 455.24411pt x 226.17253pt.
-<pielografia final.png, id=284, 535.2497pt x 544.28343pt>
+<pielografia final.png, id=299, 535.2497pt x 544.28343pt>
 File: pielografia final.png Graphic file (type png)
 <use pielografia final.png>
 Package luatex.def Info: pielografia final.png  used on input line 234.
@@ -1380,10 +1380,306 @@ LaTeX Info: Redefining \. on input line 335.
 LaTeX Info: Redefining \% on input line 335.
 [38
 
-])
-LaTeX Info: Redefining \. on input line 169.
-LaTeX Info: Redefining \% on input line 169.
+]) (./gastro.tex
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
  [39
+
+]
+Capítulo 5.
+[40
+
+]
+Underfull \hbox (badness 4752) in paragraph at lines 57--57
+[]|\TU/TimesNewRoman(0)/b/n/12 Yo-da-do hi-dro-so-lu-
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 57--58
+[]|\TU/TimesNewRoman(0)/m/n/12 Post-ope-ra-to-rios, sos-pe-cha
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 57--58
+\TU/TimesNewRoman(0)/m/n/12 de per-fo-ra-ción/fu-ga/fís-tu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
+
+ []
+
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+[41]
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+ [42]
+Underfull \hbox (badness 2469) in paragraph at lines 122--122
+[]|\TU/TimesNewRoman(0)/b/n/12 Bi-pe-des-ta-ción per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]|\TU/TimesNewRoman(0)/b/n/12 Bi-pe-des-ta-ción
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 124--124
+[]|\TU/TimesNewRoman(0)/m/n/12 Pa-cien-te apo-ya hom-bro iz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+[]|\TU/TimesNewRoman(0)/b/n/12 De-cú-bi-to su-pino
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]|\TU/TimesNewRoman(0)/b/n/12 De-cú-bi-to OAI +
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 132--132
+[]|\TU/TimesNewRoman(0)/m/n/12 Pa-cien-te gi-ra ha-cia su de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--134
+[]|\TU/TimesNewRoman(0)/b/n/12 De-cú-bi-to prono /
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 134--134
+\TU/TimesNewRoman(0)/m/n/12 den-te, ho-ri-zon-tal, as-cen-den-
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 136--136
+[]|\TU/TimesNewRoman(0)/b/n/12 De-cú-bi-to OAD fi-
+ []
+
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+[43
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+
+ []
+
+LaTeX Info: Redefining \. on input line 195.
+LaTeX Info: Redefining \% on input line 195.
+[44
+
+]
+LaTeX Info: Redefining \. on input line 244.
+LaTeX Info: Redefining \% on input line 244.
+ [45]
+Underfull \hbox (badness 2293) in paragraph at lines 254--254
+[]|\TU/TimesNewRoman(0)/m/n/12 Dis-fa-gia al-ta, re-gur-gi-ta-ción,
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 256--256
+[]|\TU/TimesNewRoman(0)/m/n/12 De-fec-to de lle-na-do, bor-des
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 256--256
+\TU/TimesNewRoman(0)/m/n/12 ria (sin on-das pe-ris-tál-ti-cas),
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 256--256
+[]|\TU/TimesNewRoman(0)/m/n/12 Dis-fa-gia pro-gre-si-va: só-li-dos
+ []
+
+LaTeX Info: Redefining \. on input line 286.
+LaTeX Info: Redefining \% on input line 286.
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+) (./vias_biliares.tex
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ [47]
+Capítulo 6.
+[48
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\TU/TimesNewRoman(0)/m/n/12 Mis-ma téc-ni-ca ra-dio-ló-gi-ca que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\TU/TimesNewRoman(0)/m/n/12 In-ter-ven-ción mix-ta endoscópica-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/b/n/12 Vía bi-liar intra-
+ []
+
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+[49]
+LaTeX Info: Redefining \. on input line 148.
+LaTeX Info: Redefining \% on input line 148.
+ [50]
+Underfull \hbox (badness 2435) in paragraph at lines 170--170
+[]|\TU/TimesNewRoman(0)/b/n/12 Mo-ni-tor de en-dos-co-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
+\TU/TimesNewRoman(0)/b/n/12 me-tá-li-co au-to-ex-
+ []
+
+LaTeX Info: Redefining \. on input line 219.
+LaTeX Info: Redefining \% on input line 219.
+[51
+
+]
+LaTeX Info: Redefining \. on input line 256.
+LaTeX Info: Redefining \% on input line 256.
+ [52]
+Underfull \hbox (badness 1881) in paragraph at lines 269--269
+[]|\TU/TimesNewRoman(0)/m/n/12 Pa-cien-tes con me-jor con-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--271
+[]|\TU/TimesNewRoman(0)/b/n/12 Stent me-tá-li-co +
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 271--271
+[]|\TU/TimesNewRoman(0)/m/n/12 En-do-pró-te-sis au-to-ex-pan-si-ble
+ []
+
+LaTeX Info: Redefining \. on input line 310.
+LaTeX Info: Redefining \% on input line 310.
+[53]) (./cateteres.tex
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ [54]
+Capítulo 7.
+[55
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\TU/TimesNewRoman(0)/m/n/12 Son-da fle-xi-ble; yu-gu-lar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/b/n/12 Ca-té-ter Do-ble
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/m/n/12 Tran-si-to-rio, cor-ta du-ra-ción.
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 60--60
+[]|\TU/TimesNewRoman(0)/m/n/12 Si-li-co-na, sub-cu-tá-neo, ra-dio-
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 64--64
+[]|\TU/TimesNewRoman(0)/m/n/12 Im-plan-ta-ble con re-ser-vo-rio
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 64--64
+\TU/TimesNewRoman(0)/m/n/12 de si-li-co-na en bol-si-llo pre-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\TU/TimesNewRoman(0)/m/n/12 Anas-to-mo-sis qui-rúr-gi-ca
+ []
+
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+[56
+
+]
+<imagenes/puncion_ecoguiada.png, id=444, 917.67844pt x 417.05812pt>
+File: imagenes/puncion_ecoguiada.png Graphic file (type png)
+<use imagenes/puncion_ecoguiada.png>
+Package luatex.def Info: imagenes/puncion_ecoguiada.png  used on input line 119
+.
+(luatex.def)             Requested size: 318.66948pt x 144.82704pt.
+<imagenes/guias_dilatador.png, id=445, 1178.15157pt x 453.94594pt>
+File: imagenes/guias_dilatador.png Graphic file (type png)
+<use imagenes/guias_dilatador.png>
+Package luatex.def Info: imagenes/guias_dilatador.png  used on input line 128.
+(luatex.def)             Requested size: 318.66948pt x 122.78175pt.
+<imagenes/retiro _guia.png, id=446, 1195.46625pt x 426.84468pt>
+File: imagenes/retiro _guia.png Graphic file (type png)
+<use imagenes/retiro _guia.png>
+Package luatex.def Info: imagenes/retiro _guia.png  used on input line 138.
+(luatex.def)             Requested size: 318.66948pt x 113.78415pt.
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
+ [57<./imagenes/puncion_ecoguiada.png><./imagenes/guias_dilatador.png>]
+<imagenes/tunelizado_hickman.png, id=458, 1206.00563pt x 442.65375pt>
+File: imagenes/tunelizado_hickman.png Graphic file (type png)
+<use imagenes/tunelizado_hickman.png>
+Package luatex.def Info: imagenes/tunelizado_hickman.png  used on input line 16
+0.
+(luatex.def)             Requested size: 318.66948pt x 116.96495pt.
+<imagenes/tunelizado_hickman2.png, id=459, 1175.14032pt x 466.74374pt>
+File: imagenes/tunelizado_hickman2.png Graphic file (type png)
+<use imagenes/tunelizado_hickman2.png>
+Package luatex.def Info: imagenes/tunelizado_hickman2.png  used on input line 1
+67.
+(luatex.def)             Requested size: 318.66948pt x 126.57088pt.
+LaTeX Info: Redefining \. on input line 174.
+LaTeX Info: Redefining \% on input line 174.
+
+[58<./imagenes/retiro _guia.png><./imagenes/tunelizado_hickman.png><./imagenes/t
+unelizado_hickman2.png>]
+<imagenes/gemelar1.png, id=476, 983.92593pt x 400.49625pt>
+File: imagenes/gemelar1.png Graphic file (type png)
+<use imagenes/gemelar1.png>
+Package luatex.def Info: imagenes/gemelar1.png  used on input line 190.
+(luatex.def)             Requested size: 455.24411pt x 185.29994pt.
+<imagenes/gemelar2.png, id=477, 1056.19594pt x 399.74344pt>
+File: imagenes/gemelar2.png Graphic file (type png)
+<use imagenes/gemelar2.png>
+Package luatex.def Info: imagenes/gemelar2.png  used on input line 197.
+(luatex.def)             Requested size: 455.24411pt x 172.29498pt.
+LaTeX Info: Redefining \. on input line 208.
+LaTeX Info: Redefining \% on input line 208.
+ [59<./imagenes/gemelar1.png><./imagenes/gemelar2.png>]
+<imagenes/portacath.png, id=487, 1114.91531pt x 421.575pt>
+File: imagenes/portacath.png Graphic file (type png)
+<use imagenes/portacath.png>
+Package luatex.def Info: imagenes/portacath.png  used on input line 216.
+(luatex.def)             Requested size: 455.24411pt x 172.13283pt.
+LaTeX Info: Redefining \. on input line 230.
+LaTeX Info: Redefining \% on input line 230.
+ [60<./imagenes/portacath.png>]
+<imagenes/fistulo.png, id=500, 1159.33125pt x 438.13687pt>
+File: imagenes/fistulo.png Graphic file (type png)
+<use imagenes/fistulo.png>
+Package luatex.def Info: imagenes/fistulo.png  used on input line 253.
+(luatex.def)             Requested size: 455.24411pt x 172.04263pt.
+LaTeX Info: Redefining \. on input line 273.
+LaTeX Info: Redefining \% on input line 273.
+ [61
+
+<./imagenes/fistulo.png>])
+LaTeX Info: Redefining \. on input line 173.
+LaTeX Info: Redefining \% on input line 173.
+ [62
 
 ] (./main.aux
 LaTeX Info: Redefining \. on input line 12.
@@ -1394,7 +1690,7 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 969000A67D2A7B16CCAB56F75B868C09;585.
+(rerunfilecheck)             Checksum: A100CE536092D18A1DCDB3790D12192C;1095.
 )
 (\end occurred inside a group at level 2)
 
@@ -1403,16 +1699,16 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 16418 strings out of 476081
+ 16679 strings out of 476081
  125086,953878 words of node,token memory allocated
  717 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 7 attribute, 104 glue_spec
 , 5 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1170,3:313,4:156,5:193,6:109,7:6637,8:5,9:812,10:19,11:893
-,12:1
- 38347 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:1217,3:313,4:156,5:218,6:109,7:7022,8:5,9:812,10:19,11:102
+9,12:1
+ 38475 multiletter control sequences out of 65536+600000
  66 fonts using 22731239 bytes
- 73i,13n,92p,1132b,892s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,13n,92p,1132b,1008s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/WINDOWS/Fonts/timesi.ttf><C:/WINDOWS/Fonts/timesbd.ttf><C:/WINDOWS/Fonts/tim
 es.ttf><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi12.pfb><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/
@@ -1421,9 +1717,9 @@ public/amsfonts/cm/cmr8.pfb><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/cosas/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/cosas/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (40 pages, 12213536 bytes).
+Output written on main.pdf (63 pages, 22840399 bytes).
 
-PDF statistics: 371 PDF objects out of 1000 (max. 8388607)
- 133 named destinations out of 1000 (max. 1048576)
- 33 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 566 PDF objects out of 1000 (max. 8388607)
+ 224 named destinations out of 1000 (max. 1048576)
+ 57 words of extra memory for PDF output out of 10000 (max. 100000000)
 
