@@ -1,0 +1,55 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  MAIN — Técnicas Radiológicas
+%
+%  ESTRUCTURA:
+%    main.tex
+%    rad.cls
+%    secciones/
+%      torax.tex
+%      abdomen.tex
+%      columna.tex
+%      pelvis_cadera.tex
+%      miembros_superiores.tex
+%      miembros_inferiores.tex
+%      craneo.tex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{rad}
+
+\doctype{Técnicas Radiológicas 3}
+\title{Resumen de Enfoques Radiológicos}
+\organization{Licenciatura en Imagenología}
+\theday{}
+
+\begin{document}
+	
+	%----------------------------------------------------------
+	% Carátula — una columna
+	%----------------------------------------------------------
+	\maketitle
+	
+	%----------------------------------------------------------
+	% Índice — una columna
+	%----------------------------------------------------------
+	\thispagestyle{portada}
+	\tableofcontents
+	\newpage
+	
+	%----------------------------------------------------------
+	% Contenido — dos columnas
+	%----------------------------------------------------------
+	\twocolumn
+	\pagestyle{contenido}
+	
+	\input{seccion/generalidades}
+	\input{secciones/torax}
+	\input{secciones/Vias Aereas}
+	\input{secctiones/Mamografia}
+	\input{secciones/Abdomen}
+	% \input{secciones/columna}
+	% \input{secciones/pelvis_cadera}
+	% \input{secciones/miembros_superiores}
+	% \input{secciones/miembros_inferiores}
+	% \input{secciones/craneo}
+	
+\end{document}

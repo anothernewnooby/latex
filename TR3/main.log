@@ -1,0 +1,1838 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.21)  25 APR 2026 20:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./main.tex
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(rad.cls
+Document Class: rad 2025/01/01 Clase Tecnicas Radiologicas
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count283
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
+\U@D=\dimen149
+\l@unhyphenated=\language79
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count284
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex)
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 4320.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks19
+\es@quotdepth=\count285
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
+on input line 13.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
+ on input line 13.
+ (C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count286
+)
+\MT@toks=\toks21
+\MT@tempbox=\box53
+\MT@count=\count287
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks22
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen150
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count288
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip51
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen153
+\pgfutil@tempdimb=\dimen154
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box54
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen155
+\pgf@y=\dimen156
+\pgf@xa=\dimen157
+\pgf@ya=\dimen158
+\pgf@xb=\dimen159
+\pgf@yb=\dimen160
+\pgf@xc=\dimen161
+\pgf@yc=\dimen162
+\pgf@xd=\dimen163
+\pgf@yd=\dimen164
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count289
+\c@pgf@countb=\count290
+\c@pgf@countc=\count291
+\c@pgf@countd=\count292
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count293
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count294
+\pgfsyssoftpath@bigbuffer@items=\count295
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen165
+\pgfmath@count=\count296
+\pgfmath@box=\box55
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count297
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen166
+\pgf@picmaxx=\dimen167
+\pgf@picminy=\dimen168
+\pgf@picmaxy=\dimen169
+\pgf@pathminx=\dimen170
+\pgf@pathmaxx=\dimen171
+\pgf@pathminy=\dimen172
+\pgf@pathmaxy=\dimen173
+\pgf@xx=\dimen174
+\pgf@xy=\dimen175
+\pgf@yx=\dimen176
+\pgf@yy=\dimen177
+\pgf@zx=\dimen178
+\pgf@zy=\dimen179
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen180
+\pgf@path@lasty=\dimen181
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen182
+\pgf@shorten@start@additional=\dimen183
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count298
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen184
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen185
+\pgf@pt@y=\dimen186
+\pgf@pt@temp=\dimen187
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen188
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen189
+\pgf@sys@shading@range@num=\count299
+\pgf@shadingcount=\count300
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box59
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box60
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count301
+\pgfplotmarksize=\dimen194
+)
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikz@lastmovetox=\dimen199
+\tikz@lastmovetoy=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count302
+\tikznumberofchildren=\count303
+\tikznumberofcurrentchild=\count304
+\tikz@fig@count=\count305
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count306
+\pgfmatrixcurrentcolumn=\count307
+\pgf@matrix@numberofcolumns=\count308
+)
+\tikz@expandcount=\count309
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks35
+\verbatim@line=\toks36
+\verbatim@in@stream=\read4
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks37
+)
+\tcb@titlebox=\box65
+\tcb@upperbox=\box66
+\tcb@lowerbox=\box67
+\tcb@phantombox=\box68
+\c@tcbbreakpart=\count310
+\c@tcblayer=\count311
+\c@tcolorbox@number=\count312
+\l__tcobox_tmpa_box=\box69
+\l__tcobox_tmpa_dim=\dimen259
+\tcb@temp=\box70
+\tcb@temp=\box71
+\tcb@temp=\box72
+\tcb@temp=\box73
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbraster.cod
+e.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '6.9.0'
+\c@tcbrastercolumn=\count313
+\c@tcbrasterrow=\count314
+\c@tcbrasternum=\count315
+\c@tcbraster=\count316
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image
+.sty
+Package: tikzfill.image 2026/03/26 v1.1.0 Image filling library for TikZ
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfil
+l.image.code.tex
+File: tikzlibraryfill.image.code.tex 2026/03/26 v1.1.0 Image filling library
+\l__tikzfill_tmpa_dim=\dimen260
+\l__tikzfill_tmpb_dim=\dimen261
+\l__tikzfill_img_box=\box74
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '6.9.0'
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/pdfcol\pdfcol.sty
+Package: pdfcol 2022-09-21 v1.7 Handle new color stacks for pdfTeX (HO)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box75
+\tcb@totalupperbox=\box76
+\tcb@totallowerbox=\box77
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbhooks.code
+.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '6.9.0'
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbtheorems.c
+ode.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '6.9.0'
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks38
+\ex@=\dimen262
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen263
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count317
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count318
+\leftroot@=\count319
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count320
+\DOTSCASE@=\count321
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box78
+\strutbox@=\box79
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen264
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count322
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count323
+\dotsspace@=\muskip17
+\c@parentequation=\count324
+\dspbrk@lvl=\count325
+\tag@help=\toks39
+\row@=\count326
+\column@=\count327
+\maxfields@=\count328
+\andhelp@=\toks40
+\eqnshift@=\dimen265
+\alignsep@=\dimen266
+\tagshift@=\dimen267
+\tagwidth@=\dimen268
+\totwidth@=\dimen269
+\lineht@=\dimen270
+\@envbody=\toks41
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbfitting.co
+de.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '6.9.0'
+\tcbfitdim=\dimen271
+\tcb@lowerfitdim=\dimen272
+\tcb@upperfitdim=\dimen273
+\tcb@cur@hbadness=\count329
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsut
+f8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '6.9.0'
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count330
+\lst@gtempboxa=\box80
+\lst@token=\toks43
+\lst@length=\count331
+\lst@currlwidth=\dimen274
+\lst@column=\count332
+\lst@pos=\count333
+\lst@lostspace=\dimen275
+\lst@width=\dimen276
+\lst@newlines=\count334
+\lst@lineno=\count335
+\lst@maxwidth=\dimen277
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count336
+\lst@skipnumbers=\count337
+\lst@framebox=\box81
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.9.0'
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
+)
+\c@tcblisting=\count338
+))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/listingsutf8\listingsut
+f8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+))))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbexternal.c
+ode.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '6.9.0'
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbmagazine.c
+ode.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '6.9.0'
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbvignette.c
+ode.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '6.9.0'
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfadings.code.tex
+File: pgflibraryfadings.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbposter.cod
+e.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '6.9.0'
+)) (C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count339
+\float@exts=\toks44
+\float@box=\box82
+\@float@everytoks=\toks45
+\@floatcapt=\box83
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count340
+\Gm@cntv=\count341
+\c@Gm@tempcnt=\count342
+\Gm@bindingoffset=\dimen278
+\Gm@wd@mp=\dimen279
+\Gm@odd@mp=\dimen280
+\Gm@even@mp=\dimen281
+\Gm@layoutwidth=\dimen282
+\Gm@layoutheight=\dimen283
+\Gm@layouthoffset=\dimen284
+\Gm@layoutvoffset=\dimen285
+\Gm@dimlist=\toks46
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip55
+\f@nch@offset@elh=\skip56
+\f@nch@offset@erh=\skip57
+\f@nch@offset@olh=\skip58
+\f@nch@offset@orh=\skip59
+\f@nch@offset@elf=\skip60
+\f@nch@offset@erf=\skip61
+\f@nch@offset@olf=\skip62
+\f@nch@offset@orf=\skip63
+\f@nch@height=\skip64
+\f@nch@footalignment=\skip65
+\f@nch@widthL=\skip66
+\f@nch@widthC=\skip67
+\f@nch@widthR=\skip68
+\@temptokenb=\toks47
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box84
+\beforetitleunit=\skip69
+\aftertitleunit=\skip70
+\ttl@plus=\dimen286
+\ttl@minus=\dimen287
+\ttl@toksa=\toks48
+\titlewidth=\dimen288
+\titlewidthlast=\dimen289
+\titlewidthfirst=\dimen290
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip71
+\enit@outerparindent=\dimen291
+\enit@toks=\toks49
+\enit@inbox=\box85
+\enit@count@id=\count343
+\enitdp@description=\count344
+))
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 24
+.
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count345
+) (main.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 8.
+
+
+LaTeX Warning: Label `fig:abd' multiply defined.
+
+
+LaTeX Warning: Label `fig:abd3' multiply defined.
+
+
+LaTeX Warning: Label `fig:abd8' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 24.
+Package microtype Info: Applying patch `item' on input line 24.
+Package microtype Info: Applying patch `toc' on input line 24.
+Package microtype Info: Applying patch `eqnum' on input line 24.
+Package microtype Info: Applying patch `footnote' on input line 24.
+Package microtype Info: Applying patch `verbatim' on input line 24.
+LaTeX Info: Redefining \microtypesetup on input line 24.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count346
+\scratchdimen=\dimen292
+\scratchbox=\box86
+\nofMPsegments=\count347
+\nofMParguments=\count348
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count349
+\MPscratchDim=\dimen293
+\MPnumerator=\count350
+\makeMPintoPDFobject=\count351
+\everyMPtoPDFconversion=\toks51
+)
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count352
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(39.83385pt, 517.84018pt, 39.83385pt)
+* v-part:(T,H,B)=(51.21495pt, 742.61694pt, 51.21495pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=517.84018pt
+* \textheight=742.61694pt
+* \oddsidemargin=-32.43614pt
+* \evensidemargin=-32.43614pt
+* \topmargin=-60.05504pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=111.0pt
+* \marginparsep=11.0pt
+* \columnsep=14.22636pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{C:/Users/cosas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/cosa
+s/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+5.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+5.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+35.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+35.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 35.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 35.
+
+(main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [2])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [3] (seccion/generalidades.tex [4
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 84.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 84.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8
+6.
+
+(C:\Users\cosas\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \. on input line 118.
+LaTeX Info: Redefining \% on input line 118.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 118.
+ [5
+
+
+{C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 194.
+LaTeX Info: Redefining \% on input line 194.
+ [6]
+LaTeX Info: Redefining \. on input line 207.
+LaTeX Info: Redefining \% on input line 207.
+
+[7
+
+]) (secciones/torax.tex [8
+
+
+
+]
+<imagenes/torax position.png, id=75, 501.875pt x 389.455pt>
+File: imagenes/torax position.png Graphic file (type png)
+<use imagenes/torax position.png>
+Package pdftex.def Info: imagenes/torax position.png  used on input line 65.
+(pdftex.def)             Requested size: 176.26405pt x 136.78075pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 95.
+LaTeX Info: Redefining \% on input line 95.
+ [9
+
+
+{C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
+ <./imagenes/torax position.png (PNG copy)>]
+LaTeX Info: Redefining \. on input line 107.
+LaTeX Info: Redefining \% on input line 107.
+ [10
+
+]
+<imagenes/image.png, id=83, 501.875pt x 612.2875pt>
+File: imagenes/image.png Graphic file (type png)
+<use imagenes/image.png>
+Package pdftex.def Info: imagenes/image.png  used on input line 111.
+(pdftex.def)             Requested size: 362.48654pt x 442.25742pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 116.
+LaTeX Info: Redefining \% on input line 116.
+[11 <./imagenes/image.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<imagenes/posicion torax perfil.png, id=87, 540.0175pt x 464.73625pt>
+File: imagenes/posicion torax perfil.png Graphic file (type png)
+<use imagenes/posicion torax perfil.png>
+Package pdftex.def Info: imagenes/posicion torax perfil.png  used on input line
+ 177.
+(pdftex.def)             Requested size: 176.26405pt x 151.68988pt.
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
+ [12
+
+
+ <./imagenes/posicion torax perfil.png (PNG copy)>]
+<imagenes/torax perfil rx.png, id=92, 514.92375pt x 577.15625pt>
+File: imagenes/torax perfil rx.png Graphic file (type png)
+<use imagenes/torax perfil rx.png>
+Package pdftex.def Info: imagenes/torax perfil rx.png  used on input line 216.
+(pdftex.def)             Requested size: 362.48654pt x 406.30516pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 224.
+LaTeX Info: Redefining \% on input line 224.
+[13
+
+]
+LaTeX Info: Redefining \. on input line 224.
+LaTeX Info: Redefining \% on input line 224.
+ [14 <./imagenes/torax perfil rx.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<imagenes/torax portatil.png, id=100, 640.3925pt x 501.875pt>
+File: imagenes/torax portatil.png Graphic file (type png)
+<use imagenes/torax portatil.png>
+Package pdftex.def Info: imagenes/torax portatil.png  used on input line 281.
+(pdftex.def)             Requested size: 176.26405pt x 138.13474pt.
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+ [15
+
+
+ <./imagenes/torax portatil.png (PNG copy)>]
+<imagenes/torax portatil 2.png, id=104, 427.5975pt x 402.50375pt>
+File: imagenes/torax portatil 2.png Graphic file (type png)
+<use imagenes/torax portatil 2.png>
+Package pdftex.def Info: imagenes/torax portatil 2.png  used on input line 312.
+
+(pdftex.def)             Requested size: 362.48654pt x 341.21468pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 317.
+LaTeX Info: Redefining \% on input line 317.
+[16
+
+]
+LaTeX Info: Redefining \. on input line 317.
+LaTeX Info: Redefining \% on input line 317.
+ [17 <./imagenes/torax portatil 2.png (PNG copy)>]
+<imagenes/torax vertices.png, id=111, 246.9225pt x 248.93pt>
+File: imagenes/torax vertices.png Graphic file (type png)
+<use imagenes/torax vertices.png>
+Package pdftex.def Info: imagenes/torax vertices.png  used on input line 379.
+(pdftex.def)             Requested size: 176.26405pt x 177.69492pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<imagenes/torax vertices 2.png, id=112, 321.2pt x 222.8325pt>
+File: imagenes/torax vertices 2.png Graphic file (type png)
+<use imagenes/torax vertices 2.png>
+Package pdftex.def Info: imagenes/torax vertices 2.png  used on input line 387.
+
+(pdftex.def)             Requested size: 176.26405pt x 122.28624pt.
+LaTeX Info: Redefining \. on input line 408.
+LaTeX Info: Redefining \% on input line 408.
+ [18
+
+
+ <./imagenes/torax vertices.png (PNG copy)> <./imagenes/torax vertices 2.png (P
+NG copy)>]
+<imagenes/torax vertice 3.png, id=116, 361.35pt x 372.39125pt>
+File: imagenes/torax vertice 3.png Graphic file (type png)
+<use imagenes/torax vertice 3.png>
+Package pdftex.def Info: imagenes/torax vertice 3.png  used on input line 419.
+(pdftex.def)             Requested size: 362.48654pt x 373.56654pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
+[19
+
+]
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
+ [20 <./imagenes/torax vertice 3.png (PNG copy)>]
+Underfull \vbox (badness 2012) has occurred while \output is active []
+
+<imagenes/grandes vasos OAD.png, id=124, 851.18pt x 685.56125pt>
+File: imagenes/grandes vasos OAD.png Graphic file (type png)
+<use imagenes/grandes vasos OAD.png>
+Package pdftex.def Info: imagenes/grandes vasos OAD.png  used on input line 507
+.
+(pdftex.def)             Requested size: 176.26405pt x 141.96362pt.
+<imagenes/grandes vasos OAI.png, id=125, 922.44624pt x 683.55376pt>
+File: imagenes/grandes vasos OAI.png Graphic file (type png)
+<use imagenes/grandes vasos OAI.png>
+Package pdftex.def Info: imagenes/grandes vasos OAI.png  used on input line 514
+.
+(pdftex.def)             Requested size: 176.26405pt x 130.60667pt.
+LaTeX Info: Redefining \. on input line 539.
+LaTeX Info: Redefining \% on input line 539.
+ [21
+
+
+ <./imagenes/grandes vasos OAD.png (PNG copy)> <./imagenes/grandes vasos OAI.pn
+g (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<imagenes/grandes vasos RX OAD.png, id=129, 872.25874pt x 618.31pt>
+File: imagenes/grandes vasos RX OAD.png Graphic file (type png)
+<use imagenes/grandes vasos RX OAD.png>
+Package pdftex.def Info: imagenes/grandes vasos RX OAD.png  used on input line 
+625.
+(pdftex.def)             Requested size: 362.48654pt x 256.95238pt.
+LaTeX Info: Redefining \. on input line 630.
+LaTeX Info: Redefining \% on input line 630.
+ [22]
+LaTeX Info: Redefining \. on input line 630.
+LaTeX Info: Redefining \% on input line 630.
+
+[23 <./imagenes/grandes vasos RX OAD.png (PNG copy)>]
+<imagenes/grandes vasos RX OAI.png, id=136, 855.195pt x 581.17125pt>
+File: imagenes/grandes vasos RX OAI.png Graphic file (type png)
+<use imagenes/grandes vasos RX OAI.png>
+Package pdftex.def Info: imagenes/grandes vasos RX OAI.png  used on input line 
+634.
+(pdftex.def)             Requested size: 362.48654pt x 246.33385pt.
+LaTeX Info: Redefining \. on input line 639.
+LaTeX Info: Redefining \% on input line 639.
+ [24 <./imagenes/grandes vasos RX OAI.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<imagenes/costilla supra.png, id=140, 320.19624pt x 388.45125pt>
+File: imagenes/costilla supra.png Graphic file (type png)
+<use imagenes/costilla supra.png>
+Package pdftex.def Info: imagenes/costilla supra.png  used on input line 732.
+(pdftex.def)             Requested size: 362.48654pt x 439.76276pt.
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
+ [25
+
+
+]
+LaTeX Info: Redefining \. on input line 737.
+LaTeX Info: Redefining \% on input line 737.
+
+[26 <./imagenes/costilla supra.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 808.
+LaTeX Info: Redefining \% on input line 808.
+ [27
+
+]
+<imagenes/costillas infra.png, id=152, 311.1625pt x 351.3125pt>
+File: imagenes/costillas infra.png Graphic file (type png)
+<use imagenes/costillas infra.png>
+Package pdftex.def Info: imagenes/costillas infra.png  used on input line 814.
+(pdftex.def)             Requested size: 362.48654pt x 409.26497pt.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
+
+[28
+
+]
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
+ [29 <./imagenes/costillas infra.png (PNG copy)>]
+<imagenes/OA costillas.png, id=159, 414.79968pt x 311.66437pt>
+File: imagenes/OA costillas.png Graphic file (type png)
+<use imagenes/OA costillas.png>
+Package pdftex.def Info: imagenes/OA costillas.png  used on input line 881.
+(pdftex.def)             Requested size: 176.26405pt x 132.4342pt.
+<imagenes/OA1.png, id=161, 273.27094pt x 306.39468pt>
+File: imagenes/OA1.png Graphic file (type png)
+<use imagenes/OA1.png>
+Package pdftex.def Info: imagenes/OA1.png  used on input line 888.
+(pdftex.def)             Requested size: 176.26405pt x 197.63007pt.
+LaTeX Info: Redefining \. on input line 946.
+LaTeX Info: Redefining \% on input line 946.
+ [30
+
+
+ <./imagenes/OA costillas.png> <./imagenes/OA1.png>]
+<imagenes/OA2.png, id=167, 376.40625pt x 407.27156pt>
+File: imagenes/OA2.png Graphic file (type png)
+<use imagenes/OA2.png>
+Package pdftex.def Info: imagenes/OA2.png  used on input line 1001.
+(pdftex.def)             Requested size: 362.48654pt x 392.23778pt.
+LaTeX Info: Redefining \. on input line 1006.
+LaTeX Info: Redefining \% on input line 1006.
+ [31{C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.
+enc}
+
+]
+LaTeX Info: Redefining \. on input line 1006.
+LaTeX Info: Redefining \% on input line 1006.
+ [32 <./imagenes/OA2.png>]
+<imagenes/OP1.png, id=177, 645.16031pt x 258.9675pt>
+File: imagenes/OP1.png Graphic file (type png)
+<use imagenes/OP1.png>
+Package pdftex.def Info: imagenes/OP1.png  used on input line 1057.
+(pdftex.def)             Requested size: 176.26405pt x 70.75197pt.
+<imagenes/OP3.png, id=178, 291.33844pt x 314.67563pt>
+File: imagenes/OP3.png Graphic file (type png)
+<use imagenes/OP3.png>
+Package pdftex.def Info: imagenes/OP3.png  used on input line 1064.
+(pdftex.def)             Requested size: 176.26405pt x 190.38654pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1093.
+LaTeX Info: Redefining \% on input line 1093.
+ [33
+
+
+{C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc} <./
+imagenes/OP1.png> <./imagenes/OP3.png>]
+LaTeX Info: Redefining \. on input line 1113.
+LaTeX Info: Redefining \% on input line 1113.
+ [34
+
+]
+<imagenes/OP2.png, id=188, 365.11406pt x 402.75468pt>
+File: imagenes/OP2.png Graphic file (type png)
+<use imagenes/OP2.png>
+Package pdftex.def Info: imagenes/OP2.png  used on input line 1118.
+(pdftex.def)             Requested size: 362.48654pt x 399.87143pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 1124.
+LaTeX Info: Redefining \% on input line 1124.
+[35 <./imagenes/OP2.png>]
+Overfull \hbox (5.99165pt too wide) in paragraph at lines 1133--1133
+|\T1/lmr/bx/n/9 (-20) Proyección Obli-cua An-te-rior De-re-cha de Es-ter-nón (O
+AD)| 
+ []
+
+<imagenes/esternon1.png, id=193, 299.61937pt x 272.51813pt>
+File: imagenes/esternon1.png Graphic file (type png)
+<use imagenes/esternon1.png>
+Package pdftex.def Info: imagenes/esternon1.png  used on input line 1166.
+(pdftex.def)             Requested size: 176.26405pt x 160.32272pt.
+<imagenes/esternon2.png, id=194, 249.93375pt x 243.15843pt>
+File: imagenes/esternon2.png Graphic file (type png)
+<use imagenes/esternon2.png>
+Package pdftex.def Info: imagenes/esternon2.png  used on input line 1187.
+(pdftex.def)             Requested size: 176.26405pt x 171.4935pt.
+LaTeX Info: Redefining \. on input line 1212.
+LaTeX Info: Redefining \% on input line 1212.
+[36
+
+
+ <./imagenes/esternon1.png> <./imagenes/esternon2.png>]
+<imagenes/esternon3.png, id=200, 280.04625pt x 353.82187pt>
+File: imagenes/esternon3.png Graphic file (type png)
+<use imagenes/esternon3.png>
+Package pdftex.def Info: imagenes/esternon3.png  used on input line 1217.
+(pdftex.def)             Requested size: 362.48654pt x 458.00317pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 1222.
+LaTeX Info: Redefining \% on input line 1222.
+[37
+
+]
+LaTeX Info: Redefining \. on input line 1222.
+LaTeX Info: Redefining \% on input line 1222.
+ [38 <./imagenes/esternon3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+(secciones/Vias Aereas.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [39
+
+
+] [40
+
+
+]
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+ [41
+
+
+
+
+]
+<imagenes/traquea.png, id=218, 351.56343pt x 261.22594pt>
+File: imagenes/traquea.png Graphic file (type png)
+<use imagenes/traquea.png>
+Package pdftex.def Info: imagenes/traquea.png  used on input line 123.
+(pdftex.def)             Requested size: 176.26405pt x 130.97137pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 167.
+LaTeX Info: Redefining \% on input line 167.
+ [42
+
+
+ <./imagenes/traquea.png>]
+LaTeX Info: Redefining \. on input line 168.
+LaTeX Info: Redefining \% on input line 168.
+ [43
+
+]
+<imagenes/traquea2.png, id=227, 245.41687pt x 444.15938pt>
+File: imagenes/traquea2.png Graphic file (type png)
+<use imagenes/traquea2.png>
+Package pdftex.def Info: imagenes/traquea2.png  used on input line 172.
+(pdftex.def)             Requested size: 362.48654pt x 656.05788pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+[44 <./imagenes/traquea2.png>]
+<imagenes/traquea perfil.png, id=232, 434.37282pt x 330.48468pt>
+File: imagenes/traquea perfil.png Graphic file (type png)
+<use imagenes/traquea perfil.png>
+Package pdftex.def Info: imagenes/traquea perfil.png  used on input line 228.
+(pdftex.def)             Requested size: 176.26405pt x 134.10779pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 264.
+LaTeX Info: Redefining \% on input line 264.
+ [45
+
+
+
+ <./imagenes/traquea perfil.png>]
+<imagenes/traquea perfil2.png, id=237, 351.56343pt x 514.92375pt>
+File: imagenes/traquea perfil2.png Graphic file (type png)
+<use imagenes/traquea perfil2.png>
+Package pdftex.def Info: imagenes/traquea perfil2.png  used on input line 267.
+(pdftex.def)             Requested size: 362.48654pt x 530.91953pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 273.
+LaTeX Info: Redefining \% on input line 273.
+[46
+
+]
+LaTeX Info: Redefining \. on input line 273.
+LaTeX Info: Redefining \% on input line 273.
+ [47 <./imagenes/traquea perfil2.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 353.
+LaTeX Info: Redefining \% on input line 353.
+ [48
+
+
+]
+<imagenes/cavum.png, id=249, 680.5425pt x 462.72874pt>
+File: imagenes/cavum.png Graphic file (type png)
+<use imagenes/cavum.png>
+Package pdftex.def Info: imagenes/cavum.png  used on input line 358.
+(pdftex.def)             Requested size: 517.84018pt x 352.11526pt.
+LaTeX Info: Redefining \. on input line 362.
+LaTeX Info: Redefining \% on input line 362.
+
+[49 <./imagenes/cavum.png>]) (secctiones/Mamografia.tex [50
+
+
+
+
+
+
+]
+Underfull \vbox (badness 3019) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
+ [51
+
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 106.
+
+<imagenes/mamo1.png, id=260, 377.15906pt x 260.47313pt>
+File: imagenes/mamo1.png Graphic file (type png)
+<use imagenes/mamo1.png>
+Package pdftex.def Info: imagenes/mamo1.png  used on input line 108.
+(pdftex.def)             Requested size: 258.92009pt x 178.81252pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 113.
+
+<imagenes/mamo2.png, id=261, 286.06876pt x 442.65375pt>
+File: imagenes/mamo2.png Graphic file (type png)
+<use imagenes/mamo2.png>
+Package pdftex.def Info: imagenes/mamo2.png  used on input line 115.
+(pdftex.def)             Requested size: 207.1329pt x 320.51385pt.
+LaTeX Info: Redefining \. on input line 120.
+LaTeX Info: Redefining \% on input line 120.
+[52 <./imagenes/mamo1.png> <./imagenes/mamo2.png>]
+Overfull \hbox (1.23038pt too wide) in paragraph at lines 182--183
+[]\T1/lmr/m/n/10 (-20) Parénquima ma-ma-rio com-ple-to en pro-yec-ción cráneo-c
+audal.
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 202.
+LaTeX Info: Redefining \% on input line 202.
+ [53
+
+
+
+
+]
+<imagenes/mamo4.png, id=270, 520.19344pt x 212.29312pt>
+File: imagenes/mamo4.png Graphic file (type png)
+<use imagenes/mamo4.png>
+Package pdftex.def Info: imagenes/mamo4.png  used on input line 207.
+(pdftex.def)             Requested size: 517.84018pt x 211.33376pt.
+LaTeX Info: Redefining \. on input line 212.
+LaTeX Info: Redefining \% on input line 212.
+
+[54 <./imagenes/mamo4.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 292.
+LaTeX Info: Redefining \% on input line 292.
+ [55
+
+
+
+
+]
+<imagenes/mamo5.png, id=279, 445.665pt x 316.18124pt>
+File: imagenes/mamo5.png Graphic file (type png)
+<use imagenes/mamo5.png>
+Package pdftex.def Info: imagenes/mamo5.png  used on input line 296.
+(pdftex.def)             Requested size: 362.48654pt x 257.17162pt.
+LaTeX Info: Redefining \. on input line 300.
+LaTeX Info: Redefining \% on input line 300.
+
+[56 <./imagenes/mamo5.png>]
+LaTeX Info: Redefining \. on input line 352.
+LaTeX Info: Redefining \% on input line 352.
+ [57
+
+
+
+
+
+]
+<imagenes/mamo6.png, id=287, 509.65407pt x 301.8778pt>
+File: imagenes/mamo6.png Graphic file (type png)
+<use imagenes/mamo6.png>
+Package pdftex.def Info: imagenes/mamo6.png  used on input line 355.
+(pdftex.def)             Requested size: 362.48654pt x 214.71706pt.
+<imagenes/mamo7.png, id=288, 323.70938pt x 316.93407pt>
+File: imagenes/mamo7.png Graphic file (type png)
+<use imagenes/mamo7.png>
+Package pdftex.def Info: imagenes/mamo7.png  used on input line 362.
+(pdftex.def)             Requested size: 362.48654pt x 354.9202pt.
+LaTeX Info: Redefining \. on input line 367.
+LaTeX Info: Redefining \% on input line 367.
+ [58 <./imagenes/mamo6.png> <./imagenes/mamo7.png>]) (secciones/Abdomen.tex [59
+
+
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
+ [60
+
+
+]
+<imagenes/abd2.png, id=300, 370.38374pt x 287.57437pt>
+File: imagenes/abd2.png Graphic file (type png)
+<use imagenes/abd2.png>
+Package pdftex.def Info: imagenes/abd2.png  used on input line 166.
+(pdftex.def)             Requested size: 176.26405pt x 136.85814pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 207.
+LaTeX Info: Redefining \% on input line 207.
+ [61
+
+ <./imagenes/abd2.png>]
+<imagenes/abd4.png, id=306, 329.73187pt x 493.845pt>
+File: imagenes/abd4.png Graphic file (type png)
+<use imagenes/abd4.png>
+Package pdftex.def Info: imagenes/abd4.png  used on input line 211.
+(pdftex.def)             Requested size: 362.48654pt x 542.92221pt.
+LaTeX Info: Redefining \. on input line 216.
+LaTeX Info: Redefining \% on input line 216.
+ [62 <./imagenes/abd4.png>]
+<imagenes/abd.png, id=311, 375.65344pt x 304.88907pt>
+File: imagenes/abd.png Graphic file (type png)
+<use imagenes/abd.png>
+Package pdftex.def Info: imagenes/abd.png  used on input line 252.
+(pdftex.def)             Requested size: 176.26405pt x 143.06061pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 293.
+LaTeX Info: Redefining \% on input line 293.
+ [63
+
+
+
+
+ <./imagenes/abd.png>]
+<imagenes/abd3.png, id=316, 333.49594pt x 375.65344pt>
+File: imagenes/abd3.png Graphic file (type png)
+<use imagenes/abd3.png>
+Package pdftex.def Info: imagenes/abd3.png  used on input line 298.
+(pdftex.def)             Requested size: 362.48654pt x 408.33638pt.
+LaTeX Info: Redefining \. on input line 304.
+LaTeX Info: Redefining \% on input line 304.
+ [64 <./imagenes/abd3.png>]
+<imagenes/abd5.png, id=321, 368.1253pt x 302.63063pt>
+File: imagenes/abd5.png Graphic file (type png)
+<use imagenes/abd5.png>
+Package pdftex.def Info: imagenes/abd5.png  used on input line 353.
+(pdftex.def)             Requested size: 176.26405pt x 144.9101pt.
+LaTeX Info: Redefining \. on input line 393.
+LaTeX Info: Redefining \% on input line 393.
+ [65
+
+
+
+
+ <./imagenes/abd5.png>]
+<imagenes/abd6.png, id=326, 345.54094pt x 322.95656pt>
+File: imagenes/abd6.png Graphic file (type png)
+<use imagenes/abd6.png>
+Package pdftex.def Info: imagenes/abd6.png  used on input line 397.
+(pdftex.def)             Requested size: 362.48654pt x 338.799pt.
+LaTeX Info: Redefining \. on input line 402.
+LaTeX Info: Redefining \% on input line 402.
+ [66 <./imagenes/abd6.png>]
+<imagenes/abd7.png, id=331, 272.51813pt x 209.28188pt>
+File: imagenes/abd7.png Graphic file (type png)
+<use imagenes/abd7.png>
+Package pdftex.def Info: imagenes/abd7.png  used on input line 453.
+(pdftex.def)             Requested size: 176.26405pt x 135.36098pt.
+LaTeX Info: Redefining \. on input line 493.
+LaTeX Info: Redefining \% on input line 493.
+ [67
+
+
+
+ <./imagenes/abd7.png>]
+<imagenes/abd8.png, id=337, 261.22594pt x 297.36093pt>
+File: imagenes/abd8.png Graphic file (type png)
+<use imagenes/abd8.png>
+Package pdftex.def Info: imagenes/abd8.png  used on input line 498.
+(pdftex.def)             Requested size: 362.48654pt x 412.63628pt.
+LaTeX Info: Redefining \. on input line 505.
+LaTeX Info: Redefining \% on input line 505.
+ [68 <./imagenes/abd8.png>]
+<imagenes/abd9.png, id=342, 442.65375pt x 259.7203pt>
+File: imagenes/abd9.png Graphic file (type png)
+<use imagenes/abd9.png>
+Package pdftex.def Info: imagenes/abd9.png  used on input line 541.
+(pdftex.def)             Requested size: 176.26405pt x 103.4226pt.
+LaTeX Info: Redefining \. on input line 577.
+LaTeX Info: Redefining \% on input line 577.
+
+[69
+
+
+
+
+ <./imagenes/abd9.png>]
+<imagenes/abd10.png, id=347, 572.89032pt x 298.86656pt>
+File: imagenes/abd10.png Graphic file (type png)
+<use imagenes/abd10.png>
+Package pdftex.def Info: imagenes/abd10.png  used on input line 582.
+(pdftex.def)             Requested size: 362.48654pt x 189.10321pt.
+LaTeX Info: Redefining \. on input line 589.
+LaTeX Info: Redefining \% on input line 589.
+ [70 <./imagenes/abd10.png>]
+LaTeX Info: Redefining \. on input line 647.
+LaTeX Info: Redefining \% on input line 647.
+ [71
+
+
+
+
+
+]
+<imagenes/aus1.png, id=355, 436.63126pt x 335.00156pt>
+File: imagenes/aus1.png Graphic file (type png)
+<use imagenes/aus1.png>
+Package pdftex.def Info: imagenes/aus1.png  used on input line 688.
+(pdftex.def)             Requested size: 176.26405pt x 135.23528pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 727.
+LaTeX Info: Redefining \% on input line 727.
+ [72
+
+ <./imagenes/aus1.png>]
+<imagenes/aus3.png, id=360, 316.93407pt x 377.91188pt>
+File: imagenes/aus3.png Graphic file (type png)
+<use imagenes/aus3.png>
+Package pdftex.def Info: imagenes/aus3.png  used on input line 730.
+(pdftex.def)             Requested size: 176.26405pt x 210.18182pt.
+LaTeX Info: Redefining \. on input line 738.
+LaTeX Info: Redefining \% on input line 738.
+ [73
+
+ <./imagenes/aus3.png>]
+<imagenes/aus2.png, id=366, 441.14813pt x 534.49687pt>
+File: imagenes/aus2.png Graphic file (type png)
+<use imagenes/aus2.png>
+Package pdftex.def Info: imagenes/aus2.png  used on input line 743.
+(pdftex.def)             Requested size: 362.48654pt x 439.21187pt.
+LaTeX Info: Redefining \. on input line 750.
+LaTeX Info: Redefining \% on input line 750.
+ [74 <./imagenes/aus2.png>]
+<imagenes/aus4.png, id=371, 467.49657pt x 347.79938pt>
+File: imagenes/aus4.png Graphic file (type png)
+<use imagenes/aus4.png>
+Package pdftex.def Info: imagenes/aus4.png  used on input line 797.
+(pdftex.def)             Requested size: 176.26405pt x 131.13557pt.
+LaTeX Info: Redefining \. on input line 838.
+LaTeX Info: Redefining \% on input line 838.
+ [75
+
+
+
+
+ <./imagenes/aus4.png>]
+<imagenes/aus5.png, id=376, 423.83344pt x 316.93407pt>
+File: imagenes/aus5.png Graphic file (type png)
+<use imagenes/aus5.png>
+Package pdftex.def Info: imagenes/aus5.png  used on input line 842.
+(pdftex.def)             Requested size: 362.48654pt x 271.06848pt.
+LaTeX Info: Redefining \. on input line 847.
+LaTeX Info: Redefining \% on input line 847.
+ [76 <./imagenes/aus5.png>]
+<imagenes/aus6.png, id=381, 417.05812pt x 356.83313pt>
+File: imagenes/aus6.png Graphic file (type png)
+<use imagenes/aus6.png>
+Package pdftex.def Info: imagenes/aus6.png  used on input line 896.
+(pdftex.def)             Requested size: 176.26405pt x 150.81084pt.
+LaTeX Info: Redefining \. on input line 936.
+LaTeX Info: Redefining \% on input line 936.
+ [77
+
+
+
+
+ <./imagenes/aus6.png>]
+<imagenes/aus7.png, id=386, 434.37282pt x 353.82187pt>
+File: imagenes/aus7.png Graphic file (type png)
+<use imagenes/aus7.png>
+Package pdftex.def Info: imagenes/aus7.png  used on input line 941.
+(pdftex.def)             Requested size: 362.48654pt x 295.28093pt.
+LaTeX Info: Redefining \. on input line 946.
+LaTeX Info: Redefining \% on input line 946.
+
+[78 <./imagenes/aus7.png>]
+<imagenes/aus8.png, id=391, 402.00188pt x 289.08pt>
+File: imagenes/aus8.png Graphic file (type png)
+<use imagenes/aus8.png>
+Package pdftex.def Info: imagenes/aus8.png  used on input line 994.
+(pdftex.def)             Requested size: 176.26405pt x 126.75008pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1034.
+LaTeX Info: Redefining \% on input line 1034.
+ [79
+
+
+
+
+ <./imagenes/aus8.png>]
+<imagenes/aus9.png, id=397, 483.30562pt x 368.1253pt>
+File: imagenes/aus9.png Graphic file (type png)
+<use imagenes/aus9.png>
+Package pdftex.def Info: imagenes/aus9.png  used on input line 1039.
+(pdftex.def)             Requested size: 362.48654pt x 276.11015pt.
+LaTeX Info: Redefining \. on input line 1044.
+LaTeX Info: Redefining \% on input line 1044.
+ [80 <./imagenes/aus9.png>]) (main.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 26285 strings out of 467871
+ 555643 string characters out of 5418376
+ 1021403 words of memory out of 5000000
+ 54374 multiletter control sequences out of 15000+600000
+ 699686 words of font info for 242 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 113i,12n,132p,1003b,743s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
+b><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
+b><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb
+><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pf
+b><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
+b><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
+><C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+<C:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C
+:/Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/
+Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
+Users/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/U
+sers/cosas/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (80 pages, 15362888 bytes).
+PDF statistics:
+ 466 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 37291 words of extra memory for PDF output out of 42996 (max. 10000000)
+
