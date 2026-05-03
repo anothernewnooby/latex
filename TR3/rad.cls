@@ -15,6 +15,7 @@
 \RequirePackage{graphicx}
 \RequirePackage[most]{tcolorbox}
 \usepackage{float}
+\usepackage{graphicx}
 
 \RequirePackage[
 top=18mm,
@@ -119,7 +120,7 @@ headheight=14pt
 {}
 {0em}
 {}
-[\vspace{-1mm}{\color{radblue}\hrule height 0.4pt}\vspace{1mm}]
+[\vspace{0.5mm}{\color{radblue}\hrule height 0.4pt}\vspace{1mm}]
 
 \titleformat{\subsubsection}
 [block]
